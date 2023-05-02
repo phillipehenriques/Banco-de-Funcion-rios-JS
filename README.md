@@ -1,6 +1,6 @@
-# Nome do meu projeto
+# Banco de Funcionários (JS)
 
-Rápida descrição do objetivo de fazer esse projeto
+Página que retrata um banco de funcinários de uma empresa.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
